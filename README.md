@@ -1,3 +1,3 @@
 # LocalLibraryAlgorithms
 
- A series of algorithms for a hypothetical local library that categorically compiles various and interesting statistics.
+ A series of algorithms for a hypothetical local library that categorically compiles various books, genres, authors and other interesting statistics.
